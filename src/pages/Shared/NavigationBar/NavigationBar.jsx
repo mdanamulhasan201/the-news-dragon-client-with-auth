@@ -10,7 +10,7 @@ const NavigationBar = () => {
         logOut()
             .then()
             .catch(error => {
-                console.log(error)
+                // console.log(error)
             })
     }
     return (
